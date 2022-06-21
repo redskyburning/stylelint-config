@@ -9,7 +9,6 @@ module.exports = {
 		'declaration-colon-space-after': null,
 		'at-rule-no-unknown': null,
 		'declaration-no-important': true,
-		'max-line-length': null,
 		'scss/dollar-variable-colon-space-before': 'never',
 		'scss/at-rule-no-unknown': true,
 		'scss/dollar-variable-pattern': /^[a-z][a-z0-9]+(-[a-z0-9]+)*$/, // Kebab case
